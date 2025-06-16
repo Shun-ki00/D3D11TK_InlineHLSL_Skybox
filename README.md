@@ -15,9 +15,9 @@ HLSLコードは `.hlsl` ファイルではなく、**C++文字列内に直接�
 - キューブマップを線形補間して昼夕の変化を表現
 - ビュー行列から平行移動成分を除去しカメラ回転のみに反応
 - **Scene クラス一つでシェーダー生成・適用を完結**
-- 
-## デモ実行ファイル
 
+## デモ実行ファイル
+最新バージョンの実行ファイルはこちらからダウンロードできます： [Download D3D11TK_InlineHLSL_Skybox v1.0.0](https://github.com/Shun-ki00/D3D11TK_InlineHLSL_Skybox/releases/latest)
 
 ## 動作環境
 ・OS：Windows 10 / 11  
